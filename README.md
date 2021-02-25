@@ -1,4 +1,5 @@
 # aix
+#### Account reset and unlock
 ```
 lsuser <userid>  # check user info: locked status, unsuccessful_login_count, etc
 lsuser -a unsuccessful_login_count <userid>   # list unsuccessful_login_count
