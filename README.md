@@ -7,3 +7,6 @@ chsec -f /etc/security/lastlog -a unsuccessful_login_count=0 -s <userid>     # r
 chuser account_locked=false <userid>  # unlock 
 chuser account_locked=true <userid>  # lock 
 ```
+
+# Find which process using port
+https://support.spirent.com/SC_KnowledgeView?Id=FAQ14250
